@@ -195,8 +195,7 @@ function App() {
                 <img src={add} width="50" alt="dm" ></img>
                 At- Itwan,
                 Post- Roshanganj,
-                Dist-Gaya(bihar),
-                Pincode -824217
+                Dist-Gaya(bihar)
               </h1>
             </div>
           </div>
