@@ -203,9 +203,7 @@ function App() {
         </div>
 
       </div>
-      <div className="down">
-        <a href="#HOME"><img src={up} width="50" alt="dm" ></img> </a>
-      </div>
+      
     </div>
   );
 }
