@@ -17,6 +17,7 @@ import email from "./skill/2.webp"
 import linkdin from "./skill/3.png"
 import git from "./skill/4.png"
 import add from "./skill/5.png"
+import up from "./skill/up.jpg"
 import ArrowDownwardIcon from "./images.png";
 function App() {
   return (
@@ -194,14 +195,17 @@ function App() {
                 <img src={add} width="50" alt="dm" ></img>
                 At- Itwan,
                 Post- Roshanganj,
-                Dist-Gaya(bihar)
-              </h1>
+                Dist-Gaya(bihar),
+                Pincode -824217
+             </h1>
             </div>
           </div>
         </div>
 
       </div>
-      
+      <div className="down">
+        <a href="#HOME"><img src={up} width="50" alt="dm" ></img> </a>
+      </div>
     </div>
   );
 }
