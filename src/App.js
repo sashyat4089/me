@@ -17,7 +17,6 @@ import email from "./skill/2.webp"
 import linkdin from "./skill/3.png"
 import git from "./skill/4.png"
 import add from "./skill/5.png"
-import up from "./skill/up.jpg"
 import ArrowDownwardIcon from "./images.png";
 function App() {
   return (
